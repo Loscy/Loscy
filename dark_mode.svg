@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Monaco, 'Courier New', monospace" width="1280px" height="520px" font-size="14px" role="img" aria-labelledby="title desc">
+  <title id="title">Loscy GitHub profile</title>
+  <desc id="desc">A dark terminal-style GitHub profile card with pixel mood and backend developer information.</desc>
+  <style>
+    .bg { fill: #161b22; }
+    .fg { fill: #c9d1d9; }
+    .dim { fill: #6e7681; }
+    .key { fill: #ffa657; }
+    .value { fill: #a5d6ff; }
+    .ok { fill: #3fb950; }
+    .sleep { fill: #d2a8ff; }
+    .line { stroke: #c9d1d9; stroke-width: 4; fill: none; }
+    .thin { stroke: #c9d1d9; stroke-width: 2; fill: none; }
+    text, tspan { white-space: pre; }
+  </style>
+  <rect width="1280" height="520" rx="14" class="bg"/>
+  <g transform="translate(24 38)" shape-rendering="crispEdges">
+    <rect x="0" y="340" width="340" height="10" class="fg"/>
+    <rect x="0" y="380" width="340" height="62" class="fg"/>
+    <rect x="18" y="402" width="304" height="4" class="bg"/>
+    <rect x="26" y="418" width="18" height="6" class="bg"/>
+    <rect x="296" y="418" width="18" height="6" class="bg"/>
+
+    <rect x="22" y="70" width="210" height="8" class="fg"/>
+    <rect x="22" y="78" width="8" height="78" class="fg"/>
+    <rect x="224" y="78" width="8" height="78" class="fg"/>
+    <rect x="30" y="148" width="194" height="8" class="fg"/>
+    <rect x="38" y="86" width="12" height="12" class="fg"/>
+    <rect x="204" y="86" width="12" height="12" class="fg"/>
+    <rect x="62" y="104" width="96" height="10" class="fg"/>
+    <rect x="62" y="122" width="134" height="8" class="fg"/>
+    <rect x="78" y="132" width="12" height="8" class="fg"/>
+    <rect x="108" y="132" width="12" height="8" class="fg"/>
+    <rect x="138" y="132" width="12" height="8" class="fg"/>
+
+    <rect x="288" y="24" width="12" height="12" class="fg"/>
+    <rect x="300" y="36" width="12" height="12" class="fg"/>
+    <rect x="300" y="48" width="12" height="12" class="fg"/>
+    <rect x="288" y="60" width="12" height="12" class="fg"/>
+    <rect x="276" y="60" width="12" height="12" class="fg"/>
+    <rect x="298" y="108" width="8" height="24" class="fg"/>
+    <rect x="290" y="116" width="24" height="8" class="fg"/>
+    <rect x="252" y="52" width="6" height="6" class="fg"/>
+    <rect x="244" y="126" width="6" height="6" class="fg"/>
+    <rect x="0" y="40" width="70" height="4" class="dim"/>
+    <rect x="242" y="82" width="86" height="4" class="dim"/>
+    <rect x="238" y="146" width="76" height="4" class="dim"/>
+
+    <rect x="18" y="302" width="38" height="38" class="fg"/>
+    <rect x="26" y="294" width="8" height="8" class="fg"/>
+    <rect x="34" y="282" width="8" height="20" class="fg"/>
+    <rect x="44" y="292" width="8" height="10" class="fg"/>
+    <rect x="8" y="292" width="10" height="10" class="fg"/>
+    <rect x="26" y="310" width="22" height="22" class="bg"/>
+
+    <rect x="76" y="318" width="70" height="22" class="fg"/>
+    <rect x="84" y="304" width="16" height="16" class="fg"/>
+    <rect x="122" y="304" width="16" height="16" class="fg"/>
+    <rect x="92" y="328" width="10" height="4" class="bg"/>
+    <rect x="116" y="328" width="10" height="4" class="bg"/>
+    <rect x="150" y="292" width="8" height="8" class="fg"/>
+    <rect x="162" y="280" width="8" height="8" class="fg"/>
+    <rect x="176" y="268" width="8" height="8" class="fg"/>
+
+    <rect x="184" y="214" width="46" height="40" class="fg"/>
+    <rect x="176" y="254" width="58" height="78" class="fg"/>
+    <rect x="198" y="264" width="66" height="18" class="fg"/>
+    <rect x="186" y="330" width="82" height="10" class="fg"/>
+    <rect x="238" y="194" width="42" height="46" class="fg"/>
+    <rect x="264" y="208" width="22" height="40" class="bg"/>
+    <rect x="270" y="224" width="6" height="12" class="fg"/>
+    <rect x="280" y="224" width="6" height="12" class="fg"/>
+
+    <rect x="260" y="250" width="78" height="58" class="fg"/>
+    <rect x="270" y="260" width="58" height="36" class="bg"/>
+    <rect x="286" y="272" width="8" height="8" class="fg"/>
+    <rect x="294" y="280" width="8" height="8" class="fg"/>
+    <rect x="310" y="272" width="8" height="8" class="fg"/>
+    <rect x="302" y="280" width="8" height="8" class="fg"/>
+    <rect x="292" y="308" width="24" height="8" class="fg"/>
+    <rect x="276" y="316" width="56" height="8" class="fg"/>
+
+    <rect x="286" y="324" width="34" height="16" class="fg"/>
+    <rect x="294" y="330" width="18" height="6" class="bg"/>
+    <rect x="60" y="404" width="20" height="20" class="bg"/>
+    <rect x="86" y="410" width="10" height="10" class="bg"/>
+    <rect x="218" y="404" width="20" height="20" class="bg"/>
+    <rect x="246" y="410" width="10" height="10" class="bg"/>
+  </g>
+
+  <text x="390" y="34" class="fg">
+    <tspan x="390" y="34">loscy@github</tspan><tspan class="dim"> ------------------------------------------------</tspan>
+    <tspan x="390" y="58" class="dim">. </tspan><tspan class="key">Role</tspan>:<tspan class="dim"> .......... </tspan><tspan class="value">Backend Developer</tspan>
+    <tspan x="390" y="82" class="dim">. </tspan><tspan class="key">Location</tspan>:<tspan class="dim"> ...... </tspan><tspan class="value">China</tspan>
+    <tspan x="390" y="106" class="dim">. </tspan><tspan class="key">Status</tspan>:<tspan class="dim"> ........ </tspan><tspan class="value">learning + open to work</tspan>
+    <tspan x="390" y="130" class="dim">. </tspan><tspan class="key">Mood</tspan>:<tspan class="dim"> .......... </tspan><tspan class="sleep">low energy, high signal</tspan>
+    <tspan x="390" y="154" class="dim">. </tspan><tspan class="key">Prompt</tspan>:<tspan class="dim"> ....... </tspan><tspan class="value">plan -&gt; code -&gt; verify</tspan>
+
+    <tspan x="390" y="202">work.log</tspan><tspan class="dim"> ----------------------------------------------------</tspan>
+    <tspan x="390" y="226" class="dim">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Backend</tspan>:<tspan class="dim"> ... </tspan><tspan class="value">reliable systems</tspan>
+    <tspan x="390" y="250" class="dim">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Tools</tspan>:<tspan class="dim"> ..... </tspan><tspan class="value">agents, CLI</tspan>
+    <tspan x="390" y="274" class="dim">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Writing</tspan>:<tspan class="dim"> ... </tspan><tspan class="value">dev notes</tspan>
+    <tspan x="390" y="298" class="dim">. </tspan><tspan class="key">Rule</tspan>:<tspan class="dim"> .......... </tspan><tspan class="ok">clear code, real checks</tspan>
+
+    <tspan x="390" y="346">interests</tspan><tspan class="dim"> ---------------------------------------------------</tspan>
+    <tspan x="390" y="370" class="dim">. </tspan><tspan class="key">Code</tspan>:<tspan class="dim"> ......... </tspan><tspan class="value">backend, tools, web</tspan>
+    <tspan x="390" y="394" class="dim">. </tspan><tspan class="key">UI</tspan>:<tspan class="dim"> ........... </tspan><tspan class="value">pixel + terminal style</tspan>
+    <tspan x="390" y="418" class="dim">. </tspan><tspan class="key">After</tspan>.<tspan class="key">Work</tspan>:<tspan class="dim"> ... </tspan><tspan class="value">anime, manga, MMORPG</tspan>
+
+    <tspan x="390" y="466">links</tspan><tspan class="dim"> -------------------------------------------------------</tspan>
+    <tspan x="390" y="490" class="dim">. </tspan><tspan class="key">Blog</tspan>:<tspan class="dim"> ......... </tspan><tspan class="value">https://loscy.com</tspan>
+    <tspan x="390" y="514" class="dim">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="dim"> ....... </tspan><tspan class="value">github.com/Loscy</tspan>
+  </text>
+</svg>
